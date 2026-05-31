@@ -1,4 +1,5 @@
 Hello Git-Gitty, Whats Up? 
 Login feature added!
 
-Updates will be live soon !
+Updates will be live soon !JIRA-101 implementation
+JIRA-101 implementation
