@@ -1,2 +1,4 @@
-Hello Git-Gitty, Whats Up? 
-Login feature added!
+Git-Gitty, in master branch
+Git-gitty, with updated version
+
+Updates will be live soon !
