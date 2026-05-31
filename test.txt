@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git-Gitty, in master branch
+=======
+Git-gitty, with updated version
+>>>>>>> feature-conflict
